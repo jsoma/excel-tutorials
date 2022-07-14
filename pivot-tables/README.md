@@ -10,7 +10,7 @@ Before you start to analyze a dataset, you need to understand its content and li
 
 You do not need to study them seriously, but you should have a passing familiarity with what the dataset covers.
 
-## 📝 Questions, part one
+## 📝 Questions, Part One
 
 1. What division within the Department of Health and Mental Hygiene produces this data? 
 2. What are some of the limitations of this data, according to the city’s description? 
@@ -30,7 +30,7 @@ Open the filtered rodent inspections file in Excel by using **File > Open** in E
 
 [Opening a file in Excel](file-open.png)
 
-### 📝 Questions, part two
+### 📝 Questions, Part Two
 
 1. How many rows are there in the data? *Tip: if there are 1,048,576, then you downloaded the full dataset instead of the filtered version. [Details on row limits here](../row-limits/)*
 2. Do you notice any potential limitations of the data just by glancing through it? What are they? This only needs to be a cursory answer at this point, and if nothing strikes you as a limitation, no problem.
@@ -49,7 +49,7 @@ Once constructed, the pivot table should look something like this:
 
 You are probably interested in what places have the most reports! Click on one of the values in the `Count of JOB_ID` column in the pivot table. Then, right click and select **Sort > Sort from Largest to Smallest**.
 
-### 📝 Questions, part three
+### 📝 Questions, Part Three
 
 1. What borough has had the most inspections since 2019?
 2. List the zip codes with the top count for each borough, along with the number of inspections. Google the zip code to find out what neighborhood it is in. What are these zip codes and neighborhoods?
