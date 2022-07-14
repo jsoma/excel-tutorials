@@ -5,7 +5,7 @@
 
 # Downloading the data
 
-The data that we’ll be using for this exercise is New York City’s rodent inspections data.
+The data that we’ll be using for this exercise is New York City’s **rodent inspections data.** The full file is [larger than Excel can support](../row-limits/), so we'll only be looking at 2019-2021.
 
 ## Navigating to the data
 
