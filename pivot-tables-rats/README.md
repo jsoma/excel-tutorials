@@ -32,12 +32,16 @@ Open the filtered rodent inspections file in Excel by using **File > Open** in E
 
 ## 📝 Question Set Two: Examining, filtering and sorting
 
+> You'll want to watch the [video for sorting](https://www.linkedin.com/learning/excel-2021-essential-training-office-2021-ltsc/sort-data-in-excel) and [video for filtering](https://www.linkedin.com/learning/excel-2021-essential-training-office-2021-ltsc/filter-data-with-a-drop-down-list) to be able to complete these questions. You'll be able to log in to LinkedIn Learning using your Columbia email address.
+
 1. How many rows are there in the data? *Tip: if there are 1,048,576, then you downloaded the full dataset instead of the filtered version. [Details on row limits here](../row-limits/)*
 2. Do you notice any potential limitations of the data just by glancing through it? What are they? This only needs to be a cursory answer at this point, and if nothing strikes you as a limitation, no problem.
 3. Do inspectors work on the fourth of July? *Requires: filtering on `INSPECTION_DATE`*
 4. Broadway is a street in multiple boroughs. How many times were locations on the Broadway in Brooklyn inspected? *Requires: filtering on `BOROUGH` and `STREET_NAME`*
 
 ## A simple pivot table
+
+> [Excel: PivotTables for Beginners](https://www.linkedin.com/learning/excel-pivottables-for-beginners/excel-pivottables-made-easy) is an excellent introduction to pivot tables. You'll be able to log in to LinkedIn Learning using your Columbia email address.
 
 Using the rodent dataset, create a pivot table to count the reports on a borough and zip code basis. Technically, this means creating a pivot table with `BOROUGH` and `ZIP_CODE` as the rows, and `JOB_ID` as the values. *Tip: Make sure that in Values, it is constructing a count.*
 

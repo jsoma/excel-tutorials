@@ -25,6 +25,8 @@ Now that we have a decent grasp on the sourcing and limitations of the data, it'
 
 ## 📝 Question Set Two: Examining, filtering and sorting
 
+> You'll want to watch the [video for sorting](https://www.linkedin.com/learning/excel-2021-essential-training-office-2021-ltsc/sort-data-in-excel) and [video for filtering](https://www.linkedin.com/learning/excel-2021-essential-training-office-2021-ltsc/filter-data-with-a-drop-down-list) to be able to complete these questions. You'll be able to log in to LinkedIn Learning using your Columbia email address.
+
 1. How many rows are there in the data? *Tip: if there are 1,048,576, then you downloaded the full dataset instead of the filtered version. [Details on row limits here](../row-limits/)*
 2. Do you notice any potential limitations of the data just by glancing through it? What are they? This only needs to be a cursory answer at this point, and if nothing strikes you as a limitation, no problem.
 3. What is the most number of people injured in one crash? Where and when did this incident happen? *Requires: sorting*
@@ -33,7 +35,11 @@ Now that we have a decent grasp on the sourcing and limitations of the data, it'
 
 ## 📝 Question Set Three: Pivot tables
 
-For Values, we will use the count of the `CRASH_DATE` column. According to the dataset...
+> You'll want to watch [Excel: PivotTables for Beginners](https://www.linkedin.com/learning/excel-pivottables-for-beginners/excel-pivottables-made-easy) to be able to complete these questions. You'll be able to log in to LinkedIn Learning using your Columbia email address.
+
+For values, we will generally use the count of the `CRASH_DATE` column.
+
+According to the dataset...
 
 1. What borough has the most crashes?
 2. For each borough, list the number of people killed in motor vehicle crashes during this timeframe.
