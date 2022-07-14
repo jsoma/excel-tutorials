@@ -35,7 +35,7 @@ Open the filtered rodent inspections file in Excel by using **File > Open** in E
 1. How many rows are there in the data? *Tip: if there are 1,048,576, then you downloaded the full dataset instead of the filtered version. [Details on row limits here](../row-limits/)*
 2. Do you notice any potential limitations of the data just by glancing through it? What are they? This only needs to be a cursory answer at this point, and if nothing strikes you as a limitation, no problem.
 
-## Pivot tables
+## A simple pivot table
 
 Using the rodent dataset, create a pivot table to count the reports on a borough and zip code basis. Technically, this means creating a pivot table with `BOROUGH` and `ZIP_CODE` as the rows, and `JOB_ID` as the values. *Tip: Make sure that in Values, it is constructing a count.*
 
@@ -51,7 +51,11 @@ You are probably interested in what places have the most reports! Click on one o
 
 ### 📝 Questions, Part Three
 
-1. What borough has had the most inspections since 2019?
+1. What borough has had the most inspections in this timeframe?
 2. List the zip codes with the top count for each borough, along with the number of inspections. Google the zip code to find out what neighborhood it is in. What are these zip codes and neighborhoods?
 3. List the same information for the bottom zip codes. *Do not provide answers where a zip code has a count of zero, 1 or the zip code listed in the pivot table does not have a full five digits.*
 4. How would you use this to create an accountability story? What additional information would you need to combine with what you have learned from this to develop an accountability story? Would you use additional data, and if so, what would that ideally be? You do not need to know if this data exists. 
+
+## A more complex pivot table
+
+1. What borough has had the most inspections since 2019?
