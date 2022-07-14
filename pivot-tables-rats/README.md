@@ -26,9 +26,11 @@ Now that we have a decent grasp on the sourcing and limitations of the data, it'
 
 Open the filtered rodent inspections file in Excel by using **File > Open** in Excel, or dragging the file to the Excel icon. You may be able to double-click the CSV file, but there's a chance it might open in another spreadsheet software (if you go that route, just pay attention!).
 
-[Opening a file in Excel](file-open.png)
+![Opening a file in Excel](file-open.png)
 
 > You'll want to watch the [video for sorting](https://www.linkedin.com/learning/excel-2021-essential-training-office-2021-ltsc/sort-data-in-excel) and [video for filtering](https://www.linkedin.com/learning/excel-2021-essential-training-office-2021-ltsc/filter-data-with-a-drop-down-list) to be able to complete these questions. You'll be able to log in to LinkedIn Learning using your Columbia email address.
+
+### The questions
 
 1. How many rows are there in the data? *Tip: if there are 1,048,576, then you downloaded the full dataset instead of the filtered version. [Details on row limits here](../row-limits/)*
 2. Do you notice any potential limitations of the data just by glancing through it? What are they? This only needs to be a cursory answer at this point, and if nothing strikes you as a limitation, no problem.
@@ -41,15 +43,17 @@ Open the filtered rodent inspections file in Excel by using **File > Open** in E
 
 Using the rodent dataset, create a pivot table to count the reports on a borough and zip code basis. Technically, this means creating a pivot table with `BOROUGH` and `ZIP_CODE` as the rows, and `JOB_ID` as the values. *Tip: Make sure that in Values, it is constructing a count.*
 
-The setup should look something like is displayed below.
+The pivot table fields should similar to the below:
 
 ![Pivot table fields with borough and zip code as rows and count of job id as values](pivot-fields.png)
 
-Once constructed, the pivot table should look something like this:
+Once constructed, the pivot table should resemble this:
 
 ![Example of what the pivot table should look like](pivot-displayed.png)
 
 You are probably interested in what places have the most reports! Click on one of the values in the `Count of JOB_ID` column in the pivot table. Then, right click and select **Sort > Sort from Largest to Smallest**.
+
+### The questions
 
 1. What borough has had the most inspections in this timeframe?
 2. List the zip codes with the top count for each borough, along with the number of inspections. Google the zip code to find out what neighborhood it is in. What are these zip codes and neighborhoods?

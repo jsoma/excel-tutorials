@@ -36,8 +36,8 @@ Now that we have a decent grasp on the sourcing and limitations of the data, it'
 ## 📝 Question Set Three: Pivot tables
 
 > You'll want to watch [Excel: PivotTables for Beginners](https://www.linkedin.com/learning/excel-pivottables-for-beginners/excel-pivottables-made-easy) to be able to complete these questions. You'll be able to log in to LinkedIn Learning using your Columbia email address.
-
-For values, we will generally use the count of the `CRASH_DATE` column.
+> 
+> For values, we will generally use the count of the `CRASH_DATE` column.
 
 According to the dataset...
 
