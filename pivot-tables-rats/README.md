@@ -43,11 +43,11 @@ Using the rodent dataset, create a pivot table to count the reports on a borough
 
 The setup should look something like is displayed below.
 
-[Pivot table fields with borough and zip code as rows and count of job id as values](pivot-fields.png)
+![Pivot table fields with borough and zip code as rows and count of job id as values](pivot-fields.png)
 
 Once constructed, the pivot table should look something like this:
 
-[Example of what the pivot table should look like](pivot-displayed.png)
+![Example of what the pivot table should look like](pivot-displayed.png)
 
 You are probably interested in what places have the most reports! Click on one of the values in the `Count of JOB_ID` column in the pivot table. Then, right click and select **Sort > Sort from Largest to Smallest**.
 
