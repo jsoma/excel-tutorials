@@ -19,11 +19,9 @@ You do not need to study them seriously, but you should have a passing familiari
 5. What are the two types of locations a pedestrian can be marked as present at? (You can copy and paste this from the documentation if you find it there)
 6. According to the documentation, what are the eight types of vehicles that could be included in the columns that refer to "vehicle type?" (You can copy and paste this from the documentation if you find it there)
 
-# Data analysis
+## 📝 Question Set Two: Examining, filtering and sorting
 
 Now that we have a decent grasp on the sourcing and limitations of the data, it's time to analyze the data itself.
-
-## 📝 Question Set Two: Examining, filtering and sorting
 
 > You'll want to watch the [video for sorting](https://www.linkedin.com/learning/excel-2021-essential-training-office-2021-ltsc/sort-data-in-excel) and [video for filtering](https://www.linkedin.com/learning/excel-2021-essential-training-office-2021-ltsc/filter-data-with-a-drop-down-list) to be able to complete these questions. You'll be able to log in to LinkedIn Learning using your Columbia email address.
 

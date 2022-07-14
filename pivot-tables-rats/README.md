@@ -18,19 +18,13 @@ You do not need to study them seriously, but you should have a passing familiari
 4. What are the names of the original people that created the dataset? 
 5. What are the six Active Rat Signs (ARS) or Problem Conditions that could be included in the `RESULT` column? (You can copy and paste this from the documentation if you find it there)
 
-# Part Two: Data analysis
+## 📝 Question Set Two: Examining, filtering and sorting
 
 Now that we have a decent grasp on the sourcing and limitations of the data, it's time to analyze the data itself.
-
-## Data basics
-
-### Open the file
 
 Open the filtered rodent inspections file in Excel by using **File > Open** in Excel, or dragging the file to the Excel icon. You may be able to double-click the CSV file, but there's a chance it might open in another spreadsheet software (if you go that route, just pay attention!).
 
 [Opening a file in Excel](file-open.png)
-
-## 📝 Question Set Two: Examining, filtering and sorting
 
 > You'll want to watch the [video for sorting](https://www.linkedin.com/learning/excel-2021-essential-training-office-2021-ltsc/sort-data-in-excel) and [video for filtering](https://www.linkedin.com/learning/excel-2021-essential-training-office-2021-ltsc/filter-data-with-a-drop-down-list) to be able to complete these questions. You'll be able to log in to LinkedIn Learning using your Columbia email address.
 
