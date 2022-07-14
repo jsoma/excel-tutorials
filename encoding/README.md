@@ -68,7 +68,7 @@ I hope that was fun because now it's time for trouble.
 If you open the `csv` file it doesn't work so well, and all sorts of weird characters might show up on your screen. But the interesting thing is *what gets displayed depends on where your computer is from.* Below are some screenshots of what it might look like in different countries:
 
 |American|French|Russian|Chinese|
-|---|---|
+|---|---|---|---|
 |![American Excel](screenshot-usa.png)|![French Excel](screenshot-french.png)|![Russian Excel](screenshot-russian.png)|![Chinese Excel](screenshot-chinese.png)|
 
 **Why does this happen?** When Excel opens a CSV file, there's nothing in the CSV file that tells it what encoding to use. The csv file is just a series of numbers to translate into text. 
