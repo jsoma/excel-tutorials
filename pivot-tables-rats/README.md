@@ -58,5 +58,9 @@ You are probably interested in what places have the most reports! Click on one o
 1. What borough has had the most inspections in this timeframe?
 2. List the zip codes with the top count for each borough, along with the number of inspections. Google the zip code to find out what neighborhood it is in. What are these zip codes and neighborhoods?
 3. List the same information for the bottom zip codes. *Do not provide answers where a zip code has a count of zero, 1 or the zip code listed in the pivot table does not have a full five digits.*
-4. What additional Excel skills would be useful for analyzing this dataset? What other questions could you ask if you had more advanced abilities?
-5. How would you use this to create an accountability story? What additional information would you need to combine with what you have learned from this to develop an accountability story? Would you use additional data, and if so, what would that ideally be? You do not need to know if this data exists. 
+
+## 📝 Question Set Four: Reflection
+
+1. How would you use this to create an accountability story? What additional information would you need to combine with what you have learned from this to develop an accountability story? Would you use additional data, and if so, what would that ideally be? You do not need to know if this data exists. 
+2. Oftentimes data isn't as organized, structured or "clean" as you'd like. What shortcomings did you notice with the data when you were analyzing it?
+3. What additional Excel skills would be useful for analyzing this dataset? What other questions could you ask if you had more advanced abilities?

@@ -45,5 +45,9 @@ According to the dataset...
 2. For each borough, list the number of people killed in motor vehicle crashes during this timeframe.
 3. What percent of vehicle-related deaths are pedestrians? *It's easiest to calculate this yourself from the raw numbers*
 4. Do the vehicle types in the actual dataset match the documentation? If not, list a few that are missing from the documentation.
-5. What additional Excel skills would be useful for analyzing this dataset? What other questions could you ask if you had more advanced abilities?
-6. How would you use this to create an accountability story? What additional information would you need to combine with what you have learned from this to develop an accountability story? Would you use additional data, and if so, what would that ideally be? You do not need to know if this data exists. 
+
+## 📝 Question Set Four: Reflection
+
+1. How would you use this to create an accountability story? What additional information would you need to combine with what you have learned from this to develop an accountability story? Would you use additional data, and if so, what would that ideally be? You do not need to know if this data exists. 
+2. Oftentimes data isn't as organized, structured or "clean" as you'd like. What shortcomings did you notice with the data when you were analyzing it?
+3. What additional Excel skills would be useful for analyzing this dataset? What other questions could you ask if you had more advanced abilities?
