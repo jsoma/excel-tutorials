@@ -91,7 +91,7 @@ Character encoding also causes issues when exporting CSV files from Excel. When 
 
 |description|image|
 |---|---|
-|A non-UTF-8-friendly CSV|![A not-UTF-8-friendly CSV](csv-bad.png)|
-|A UTF-8-friendly CSV|![A UTF-8-friendly CSV](csv-good.png)|
+|❌ non-UTF-8-friendly CSV|![A not-UTF-8-friendly CSV](csv-bad.png)|
+|🟢 UTF-8-friendly CSV|![A UTF-8-friendly CSV](csv-good.png)|
 
 You obviously always want the UTF-8 one!
