@@ -1,6 +1,8 @@
-* [Character encoding](/encoding/)
-* [Row limits](/row-limits/)
-* [Assumptions about your data](/assumptions/)
+* [Rodent infestations](pivot-tables-rats/) (guided)
+* [Motor vehicle crashes](pivot-tables-crashes/) (less guidance)
+* [Character encoding](encoding/)
+* [Row limits](row-limits/)
+* [Assumptions about your data](assumptions/)
 
 ## Video to gif conversion script
 
