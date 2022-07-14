@@ -1,5 +1,7 @@
 You must [download NYC's 2019-2021 rodent inspections](downloading.md) to complete this assignment.
 
+> This is a combination problem set and tutorial. The more advanced version would be [our motor vehicle collisions dataset](../pivot-tables-crashes/).
+
 # Rodent inspection dataset analysis
 
 Before you start to analyze a dataset, you need to understand its content and limitations. To prepare for answering the questions below, you will want to skim through the documentation available to you. This includes:
@@ -33,7 +35,7 @@ Open the filtered rodent inspections file in Excel by using **File > Open** in E
 3. Do inspectors work on the fourth of July? *Requires: filtering on `INSPECTION_DATE`*
 4. Broadway is a street in multiple boroughs. How many times were locations on the Broadway in Brooklyn inspected? *Requires: filtering on `BOROUGH` and `STREET_NAME`*
 
-## A simple pivot table
+## 📝 Question Set Three: Pivot tables
 
 > [Excel: PivotTables for Beginners](https://www.linkedin.com/learning/excel-pivottables-for-beginners/excel-pivottables-made-easy) is an excellent introduction to pivot tables. You'll be able to log in to LinkedIn Learning using your Columbia email address.
 
@@ -48,8 +50,6 @@ Once constructed, the pivot table should look something like this:
 [Example of what the pivot table should look like](pivot-displayed.png)
 
 You are probably interested in what places have the most reports! Click on one of the values in the `Count of JOB_ID` column in the pivot table. Then, right click and select **Sort > Sort from Largest to Smallest**.
-
-### 📝 Question Set Three: Pivot tables
 
 1. What borough has had the most inspections in this timeframe?
 2. List the zip codes with the top count for each borough, along with the number of inspections. Google the zip code to find out what neighborhood it is in. What are these zip codes and neighborhoods?

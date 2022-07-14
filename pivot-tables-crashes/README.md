@@ -1,5 +1,7 @@
 You must [download NYC's 2019-2021 motor vehicle collisions](downloading.md) to complete this assignment.
 
+> This is primarily a problem set. The more tutorial-oriented version would be [our rodent inspections dataset](../pivot-tables-crashes/).
+
 # Motor vehicles collisions dataset analysis
 
 Before you start to analyze a dataset, you need to understand its content and limitations. To prepare for answering the questions below, you will want to skim through the documentation available to you. This includes:
