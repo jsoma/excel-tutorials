@@ -2,7 +2,7 @@
 * [Motor vehicle crashes](pivot-tables-crashes/) (less guidance)
 * [Character encoding](encoding/)
 * [Row limits](row-limits/)
-* [Assumptions about your data](assumptions/)
+* [Issues with data types](data-types/)
 
 ## Video to gif conversion script
 

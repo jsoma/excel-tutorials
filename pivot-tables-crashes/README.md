@@ -43,7 +43,7 @@ According to the dataset...
 
 1. What borough has the most crashes?
 2. For each borough, list the number of people killed in motor vehicle crashes during this timeframe.
-3. What percent of vehicle-related deaths are pedestrians? *It's easiest to calculate this yourself from the raw numbers*
+3. What percent of vehicle-related deaths are pedestrians? *You can use a pivot table or calculate this yourself from the raw numbers*
 4. Do the vehicle types in the actual dataset match the documentation? If not, list a few that are missing from the documentation.
 
 ## 📝 Question Set Four: Reflection
