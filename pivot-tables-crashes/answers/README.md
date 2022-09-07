@@ -118,11 +118,9 @@ If you enjoy formulas more: you can use a formula with one `SUM(...)` for the pe
 
 ### 4. Do the vehicle types in the actual dataset match the documentation? If not, list a few that are missing from the documentation.
 
-You can find what appear to be lists of the vehicle types in both the data dictionary Excel file, as well as the crash form PDF.
+You can find what appear to be lists of the vehicle types in both the data dictionary Excel file.
 
 ![](vehicle-type-code-1.png)
-
-![](vehicle-type-code-2.png)
 
 To find a list of the vehicle type codes the dataset *actually* uses by clicking the dropdown next to `VEHICLE TYPE CODE 1`.
 
